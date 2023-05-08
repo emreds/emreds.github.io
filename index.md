@@ -11,6 +11,8 @@
 In this work, I have worked in a team of 5 and I was responsible for the design and creation of the  whole model training pipeline on High Performance Computer. In the end we were able to train more than thousand deep learning models with just a single submission.
 <center><img src="images/EONas.png"/></center>
 
+
+<br />
 ## Computer Vision
 ### 3D Deformable Object Registration using Neural Networks
 
@@ -22,7 +24,7 @@ In this work, we have used different methods to find point correspondences for 3
 Also, we have tried out if adding artificial textures to untextured objects increases the performance and it reduced the convergence time of the model significantly.
 
 <center><img src="images/3DVision.png"/></center>
-
+<br />
 ## Personal Usage 
 ### Etymology CLI in Rust 
 
