@@ -17,6 +17,7 @@ In this work, I have worked in a team of 5 and I was responsible for the design 
 ### 3D Deformable Object Registration using Neural Networks
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emreds/3D-Registration)
+
 **3D Point Correspondence:** The 3D point correspondence problem is a fundamental problem in computer vision that involves matching points in two or more images of a 3D scene. The goal is to find the corresponding points between the images, which can be used to reconstruct the 3D structure of the scene. This problem arises in a wide range of applications, such as object tracking, stereo vision, and structure from motion.
 
 In this work, we have used different methods to find point correspondences for 3D untextured and deformable objects with 2D images. Best solution was using SurfEmbeddings deep Learning model. You can find the related code in github repository and use it for your own.
