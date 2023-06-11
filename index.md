@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## AutoML
+## AutoML, Computer Vision
 
 ### Earth Observation Neural Architecture Search Benchmark 
 
@@ -26,6 +26,14 @@ Also, we have tried out if adding artificial textures to untextured objects incr
 
 <center><img src="images/3DVision.png"/></center>
 <br />
+
+## NLP
+### Picky-Rabbit 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emreds/picky-rabbit)
+**Picky Rabbit:** Picky Rabbit is an OpenAI LLM-powered chatbot that provides information about the contents of packaged food products. It helps users make informed choices by offering details on ingredients, nutritional values, allergens, and more.
+<center><img src="images/pickyRabbit.png"/></center>
+<br />
+
 ## Personal Usage 
 ### Etymology CLI in Rust 
 
