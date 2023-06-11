@@ -29,7 +29,7 @@ Also, we have tried out if adding artificial textures to untextured objects incr
 
 ## NLP
 ### Picky-Rabbit 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emreds/picky-rabbit)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emreds/picky-rabbit)<br />
 **Picky Rabbit:** Picky Rabbit is an OpenAI LLM-powered chatbot that provides information about the contents of packaged food products. It helps users make informed choices by offering details on ingredients, nutritional values, allergens, and more.
 <center><img src="images/pickyRabbit.png"/></center>
 <br />
@@ -39,7 +39,7 @@ Also, we have tried out if adding artificial textures to untextured objects incr
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emreds/tret_cli)
 
-It is a simple CLI tool that wrote while learning Rust language.
+**tret_cli:** It is a simple CLI tool that wrote while learning Rust language.
 After enterıng a word, it returns the etymological root of that word togeter with the meaning.
 
 <center><img src="images/tret.png"/></center>
