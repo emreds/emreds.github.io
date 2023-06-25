@@ -22,7 +22,7 @@ In this work, I have worked in a team of 5 and I was responsible for the design 
 
 The project utilizes a logistic regression model on 10 distinct clients to explore the concept of federated learning. By leveraging the Flower framework, the simulation is executed on a local machine, enabling efficient implementation and evaluation of federated learning techniques. Each client in the project possesses a unique dataset, characterized by varying sizes of imbalanced data points. Further details on the dataset distribution can be found in the "dirichlet_dist.py" file. The dataset comprises 2 classes and 21 features, with each client containing an identical number of features. The project adopts the Federated Averaging strategy as a key mechanism for aggregating the client models. Through this approach, the project aims to examine the effectiveness and potential benefits of federated learning in a logistic regression setting.
 <center><img src="images/FLMedicineDiabetes.png"/></center>
-
+<br />
 
 ## Computer Vision
 ### 3D Deformable Object Registration using Neural Networks
