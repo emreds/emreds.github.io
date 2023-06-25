@@ -13,6 +13,17 @@ In this work, I have worked in a team of 5 and I was responsible for the design 
 
 
 <br />
+
+## Federated Learning 
+
+### Federated Learning on Diabetes Data on non-iid setting
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emreds/federated-learning-diabetes)
+
+The project utilizes a logistic regression model on 10 distinct clients to explore the concept of federated learning. By leveraging the Flower framework, the simulation is executed on a local machine, enabling efficient implementation and evaluation of federated learning techniques. Each client in the project possesses a unique dataset, characterized by varying sizes of imbalanced data points. Further details on the dataset distribution can be found in the "dirichlet_dist.py" file. The dataset comprises 2 classes and 21 features, with each client containing an identical number of features. The project adopts the Federated Averaging strategy as a key mechanism for aggregating the client models. Through this approach, the project aims to examine the effectiveness and potential benefits of federated learning in a logistic regression setting.
+<center><img src="images/FLMedicineDiabetes.png"/></center>
+
+
 ## Computer Vision
 ### 3D Deformable Object Registration using Neural Networks
 
@@ -30,11 +41,11 @@ Also, we have tried out if adding artificial textures to untextured objects incr
 ## NLP
 ### Picky-Rabbit 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emreds/picky-rabbit)<br />
-**Picky Rabbit:** Picky Rabbit is an OpenAI LLM-powered chatbot that provides information about the contents of packaged food products. It helps users make informed choices by offering details on ingredients, nutritional values, allergens, and more.
+**Picky Rabbit:** Picky Rabbit is an OpenAI LLM-powered chatbot that provides information about the contents of packaged food products. It helps users make informed choices by offering details on ingredients, nutritional values, allergens, and more. In the second version, the chatbot incorporates Similarity Search with LLMs, enabling it to respond by considering the food data stored in the compact vector database FAISS.
 <center><img src="images/pickyRabbit.png"/></center>
 <br />
 
-## Personal Usage 
+## Just for Fun
 ### Etymology CLI in Rust 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emreds/tret_cli)
